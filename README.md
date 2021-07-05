@@ -15,10 +15,16 @@ The * on the map is you the player.
 the game will prompt you for a dungeon size, 4-30, we recommend a smaller size.
 the game will prompt you for a HP size 50 is a safe pick to explore and see the game.
 the win location will be posted at the top of the screen for your convenience, this will show you where to go to win the game.
-each encounter will be met with keywords, each keyword needs to be spelt exactly as it appears. 
+each encounter will be met with keywords, each keyword needs to be spelt exactly as it appears.
+
 Keyword: Run
+
 User: run
+
 INCORRECT INPUT
+
 User: Run
+
 Correct
+
 You can navigate the dungeon with the 1,2,3,4 keys. Up, down, left, right respectively.
